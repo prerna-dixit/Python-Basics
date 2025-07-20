@@ -22,7 +22,7 @@ c8=lwr1.count("e")+lwr2.count("e")
 true=c1+c2+c3+c4
 love=c5+c6+c7+c8
 score=10*true+love
-if score<100 and score>=85:
+if score<100 and score>85:
     print(f"Your score is {score}. You go together like coke and mentos~")
 elif score<=70 and score>=40:
     print(f"Your score is {score}. You go alright together.")
