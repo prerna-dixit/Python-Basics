@@ -1,4 +1,4 @@
-#PROGRAM 8
+#PROJECT 8
 #Takes two names as an input and checks if they have letters of TRUE LOVE using count() function
 #lower() function converts it to all lowercase
 #then gives score as an output as 10*TRUE+LOVE, eg true=3 and love=3, the score is 33

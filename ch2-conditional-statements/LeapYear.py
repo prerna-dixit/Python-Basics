@@ -1,4 +1,4 @@
-#PROGRAM 7
+#PROJECT 7
 #takes a year as an input and checks if the year is leap year or not
 
 year=int(input("Enter a year- "))
